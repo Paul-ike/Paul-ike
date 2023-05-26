@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *React, Ruby on Rails*
 
-- 👨‍💻 All of my projects are available at [Paul PortFolio]()
+- 👨‍💻 All of my projects are available at [Paul PortFolio](https://paulngugi.vercel.app/)
 
 - 📝 I regularly write articles on [Find My Blogs](https://dev.to/paulike)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *paulnyoiken@gmail.com*
 
-- 📄 Know about my experiences [Find My Resume Here.]()
+- 📄 Know about my experiences [Find My Resume Here.](https://docs.google.com/document/d/1YQYyqQW6pVGxHkKQUSyFxGjdmVEkUD1AS81Ccx3OssY/edit)
 
 - ⚡ Fun fact *I don't have trouble making friends considering how I use humour as a tool to socialise.*
 
