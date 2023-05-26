@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/paul38404956790" target="blank"><img src="https://img.shields.io/twitter/follow/paulngugi?logo=twitter&style=for-the-badge" alt="paulngugi" /></a> </p>
 
-- 🔭 A group project that I worked on and did the frontend design: [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
-
 - 🌱 I’m currently learning *React, Ruby on Rails*
 
 - 👨‍💻 All of my projects are available at [Paul PortFolio]()
