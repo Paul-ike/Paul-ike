@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *paulnyoiken@gmail.com*
 
-- 📄 Know about my experiences [Find My Resume Here.](https://docs.google.com/document/d/1YQYyqQW6pVGxHkKQUSyFxGjdmVEkUD1AS81Ccx3OssY/edit)
+- 📄 Know about my experiences [Find My Resume Here.](https://drive.google.com/file/d/1K8E-thQ6dhwtT1wFS-3EN3PiqDhuxNlw/view?usp=share_link)
 
 - ⚡ Fun fact *I don't have trouble making friends considering how I use humour as a tool to socialise.*
 
